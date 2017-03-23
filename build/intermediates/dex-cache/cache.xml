@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/opt/DAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_affd7328269b9578ead81dd7314c2caefad12838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/DAM/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_358b84eaebd7a99425260774ed958b3a5ca23342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/DAM/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_bda94d59abd437c0e28b0b39d7c45a3ec797be79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/gson-2.6.1_edd285938b329901c9dfa2b36aa0a5f7f4c8e4c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/DAM/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.0_a88282e8bddf37faf8fbc59ef370257b566e0f3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0-beta4/de5935a367ba5e343e9df786ac8fc0c7d52b5f0c/converter-gson-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta4_c78d4f5e623852668503d5a6aea5058272923de1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/DAM/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_c9f1a0c2e5d336cf77ef697d54001e6d83fb392b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/DAM/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_a9c48e332eb5d51d2ff154932c00eff74f9ff9a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/DAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_d18823a5abe8eb7b9431ce8cc839827c96cdcdc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/DAM/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_34b1196afef167aa69b1920d494f6678cbb7b830.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/DAM/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_c8194fd09a7745247245f3061b836bc9bf1733a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/DAM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_713b4c184d19ef629a3180d300bc66fc60156104.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/okhttp-3.1.2_784144230c3da147c5ae08c3bfbbd8a9bf3aa128.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/DAM/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_1e826171901f94b7c84511a0297de52ce1756879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/DAM/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_377a2c0514129ca7f20a4d83e331aa9c0fe109fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/DAM/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_f8196f4b86c0866ccd9c3942eb4729c4cb28ff49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/okio-1.6.0_abbb6cf6565e5391600f42e794cd7651128fa41b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0-beta4/739e00dea1f0ac04fdb9b6160d667e23cc50a791/retrofit-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta4_2587e21ad427787c18f54debd8c0a07166fedb6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/chandru/android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_156197beb3297370cf7818dfffe70c5b4647ac52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/DAM/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_cfef7facaa46b116696ff7dee987947c59cb50fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/DAM/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_bc25a8b99ee002b7c999d47a3c92672af50b3852.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/DAM/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/opt/DAM/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_8e1d1197656959629b820a2eed2414829bf3c403.jar" />
+    </item>
+
+</items>

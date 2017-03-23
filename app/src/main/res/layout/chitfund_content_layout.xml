@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ddd"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/android_card_view_example"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#fff"
+            android:elevation="4dp"
+            android:padding="16dp">
+
+            <ImageView
+                android:id="@+id/cardview_image"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="18dp"
+                android:src="@drawable/new_customer" />
+
+            <TextView
+                android:id="@+id/customer_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/cardview_image"
+                android:paddingBottom="5dp"
+                android:text="Viral Android"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/payment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/customer_name"
+                android:layout_toRightOf="@+id/cardview_image"
+                android:text="Test"
+                android:textColor="#8b8b8b" />
+            <TextView
+                android:id="@+id/dp_amount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/payment"
+                android:layout_toRightOf="@+id/cardview_image"
+                android:text="test"
+                android:textColor="#8b8b8b" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/dp_amount"
+                android:layout_toRightOf="@+id/cardview_image"
+                android:text="test"
+                android:visibility="gone"
+                android:textColor="#8b8b8b" />
+
+
+            <TextView
+                android:id="@+id/reg_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/dp_amount"
+                android:layout_toRightOf="@+id/dp_amount"
+                android:text="test"
+                android:layout_marginLeft="50dp"
+                android:textColor="#8b8b8b" />
+
+            <Button
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@drawable/repay"
+                android:layout_marginTop="45dp"
+                android:layout_alignParentRight="true"
+                android:id="@+id/repay_am" />
+            <Button
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@drawable/new_customer"
+                android:layout_marginTop="45dp"
+                android:layout_marginRight="15dp"
+                android:layout_toLeftOf="@+id/repay_am"
+                android:id="@+id/deatils" />
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+</LinearLayout>

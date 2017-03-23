@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DAM</string>
+    <string name="title_activity_home_">Home_Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="new_customer">புதிய வாடிக்கையாளர்</string>
+    <string name="today_report">இன்று அறிக்கை</string>கடனை திருப்பி செலுத்தும்
+    <string name="overall_report">அனைத்து அறிக்கை</string>
+    <string name="reapyment">கடனை திருப்பி செலுத்தும்ை</string>
+
+
+    <string-array name="chiffund_name">
+        <item>50kentry</item>
+        <item>100kentry</item>
+        <item>200kentry</item>
+    </string-array>
+</resources>
